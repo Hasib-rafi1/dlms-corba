@@ -18,8 +18,10 @@ needs to be implemented.
  
  In this assignment you are going to develop this modified application in CORBA using Java IDL. Specifically, do the following:
 ● Write the Java IDL interface definition for the modified DLMS with all the 7 specified operations.
+
 ● Implement the modified DLMS. You should design a server that maximizes concurrency. In other words, use proper synchronization that allows 
   multiple users to correctly perform operations on the same or different records at the same time.
+  
 ● Test your application by running multiple clients with the 3 servers. Your test cases should check correct concurrent access of shared data,
   and the atomicity of exchangeItem operation.
   
