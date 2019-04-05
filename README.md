@@ -1,7 +1,7 @@
 # Distributed Library Management System (DLMS) using Java IDL (CORBA)
 CONCORDIA UNIVERSITY | DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING | Assignment 2 | COMP 6231, Winter 2019 |Distributed Library Management System (DLMS) using CORBA
 
-This is the Corba project of the previous project. and all the infomrmation of project description is from the first assignment :
+This is the Corba implimentation of the previous project. and all the infomrmation of project description is from the first assignment :
 https://github.com/Hasib-rafi1/dlms
 
 In this assignment, you are going to implement a Distributed Library Management System (DLMS) from Assignment 1 in CORBA using Java IDL. 
